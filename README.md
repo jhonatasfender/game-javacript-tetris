@@ -1,1 +1,1 @@
-# game-javacript-tetris
+# game-javascript-tetris
